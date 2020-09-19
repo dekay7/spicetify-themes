@@ -31,6 +31,9 @@
 #### Purple
 ![demo8](./purple.png)
 
+#### Beach-Sunset
+![demo7](./beach-sunset.png)
+
 ## More
 Requires spicetify-cli **v0.9.9 or newer**.
 
@@ -77,9 +80,9 @@ spicetify config color_scheme <scheme name>
 spicetify apply
 ```
 
-# How to uninstall 
+# How to uninstall
 
-Remove the dribbblish script with the following commands 
+Remove the dribbblish script with the following commands
 
 ```
 spicetify config extensions dribbblish.js-
